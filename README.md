@@ -9,7 +9,7 @@ See individual READMEs:
 - [backend/README.md](backend/README.md)
 - [frontend/README.md](frontend/README.md)
 
-# Backend — Finance Tracker
+# Backend — Expense Tracker
 
 This folder implements the REST API that the frontend consumes.
 
@@ -94,7 +94,7 @@ File uploads:
 - Routes are mounted in [backend/server.js](backend/server.js).
 - Secure routes use [`authMiddleware.verifyToken`](backend/middleware/authMiddleware.js).
 
-# Frontend — Finance Tracker (Vite + React)
+# Frontend — Expense Tracker (Vite + React)
 
 Quick links:
 - Project entry: [frontend/index.html](frontend/index.html)
